@@ -47,7 +47,7 @@ Inspired by the legendary [`h4cker`](https://github.com/The-Art-of-Hacking/h4cke
 
 ##  Contact
 
-> Wanna collaborate, offer internships, or just say hi?
+> Wanna collaborate, or just say hi?
 
 📧 notpentester@gmail.com
 
