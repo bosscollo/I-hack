@@ -89,11 +89,3 @@ Here’s how I typically perform recon in real engagements and bug bounties:
 - Loop through tools — new subdomains = new endpoints = new recon.
 
 ---
-## Learning Resources
-
-- [NahamSec Recon Workflow](https://youtu.be/bJPI3Q3Hpf0)
-- [TomNomNom Tools](https://github.com/tomnomnom) — `assetfinder`, `httprobe`, `waybackurls`
-- [Project Discovery Toolkit](https://projectdiscovery.io)
-- [Recon Handbook by STÖK](https://github.com/stok/sec-tools/blob/main/recon-handbook.md)
-- [@thecybermentor Bug Bounty Recon Series](https://www.youtube.com/@TheCyberMentor)
-- [PayloadAllTheThings - Recon Section](https://github.com/swisskyrepo/PayloadsAllTheThings#reconnaissance)
