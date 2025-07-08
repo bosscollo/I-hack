@@ -45,16 +45,6 @@ Inspired by the legendary [`h4cker`](https://github.com/The-Art-of-Hacking/h4cke
 
 ---
 
-##  Inspiration
-
-Inspired by:
-- [`The-Art-of-Hacking/h4cker`](https://github.com/The-Art-of-Hacking/h4cker)
-- [`ars0n’s recon flow`](https://github.com/Ars0n)
-- [`nahamsec`](https://github.com/nahamsec)
-- My own battles with vulnerabilities
-
----
-
 ##  Contact
 
 > Wanna collaborate, offer internships, or just say hi?
